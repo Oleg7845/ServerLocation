@@ -1,0 +1,5 @@
+[
+  {"server_name": "VPS1", "server_ip": "127.0.0.1", "server_port": "80001", "server_url": "http://127.0.0.1:8001/", "location_ip": "34.214.212.220"},
+  {"server_name": "VPS2", "server_ip": "127.0.0.2", "server_port": "80002", "server_url": "http://127.0.0.2:8002/", "location_ip": "3.79.45.171"},
+  {"server_name": "VPS3", "server_ip": "127.0.0.3", "server_port": "80003", "server_url": "http://127.0.0.3:8003/", "location_ip": "13.209.83.147"}
+]
